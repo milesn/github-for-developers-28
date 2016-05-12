@@ -2,4 +2,5 @@
 **From:** Bedford
 **Food:** Chicken
 **Hobby:** Music
+**Favorite Color:** Red
 
